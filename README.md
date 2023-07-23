@@ -6,7 +6,7 @@ O objetivo deste exercício proposto pela Cubos Academy é replicar o website en
 
 ## Como executar o site
 
-- Executar (git clone) do projeto no terminal para clonar o repositório.
+- Executar `git clone` do projeto no terminal para clonar o repositório.
 - Após isso acessar a pasta, ir em pages e abrir a home no seu navegador.
 
 ## Páginas do Projeto
