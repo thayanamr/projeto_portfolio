@@ -1,0 +1,155 @@
+main {
+    width: 1100px;
+    margin: 0% 22.5% 150px;
+
+}
+
+.apresentacao-container {
+    display: flex;
+    background-image: url(../../assets/home/image-homepage-hero.jpg);
+    background-repeat: no-repeat;
+    background-clip: border-box;
+    background-size: 1100px 600px;
+    margin-bottom: 150px;
+
+}
+
+.apresentacao-container div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 243px;
+    width: 445px;
+    height: 357px;
+    background-color: #ffffff;
+}
+
+.apresentacao-container div h1 {
+    font-size: 50px;
+    font-family: 'Ibarra Real Nova', serif;
+    text-align: left;
+    padding: 56px 28px 0px 27px;
+    color: #33323D;
+    line-height: 0.9;
+}
+
+.apresentacao-container div a {
+    width: 200px;
+    height: 48px;
+
+}
+
+.apresentacao-container div a button {
+    display: flex;
+    justify-content: space-between;
+    border: none;
+    width: 200px;
+    height: 48px;
+    background-color: #203A4C;
+    cursor: pointer;
+}
+
+.apresentacao-container div a button:hover {
+    background-color: #5FB4A2;
+}
+
+.apresentacao-container div button img {
+    padding: 17px;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.apresentacao-container div button span {
+    padding: 17px 18%;
+    color: white;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 12px;
+}
+
+.homepage-profile {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.homepage-profile img {
+    width: 540px;
+    height: 600px;
+}
+
+.homepage-profile-text {
+    margin: 0px 0px 0px 140px;
+    border-bottom: 1px solid #33323D;
+    border-top: 1px solid #33323D;
+}
+
+.homepage-profile-text h2 {
+
+    font-size: 40px;
+    font-family: 'Ibarra Real Nova', serif;
+    padding-top: 51px;
+
+}
+
+.homepage-profile-text p {
+    font-family: 'Public Sans', sans-serif;
+    font-size: 16px;
+    color: #33323D;
+    padding-top: 28px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.homepage-profile-text button {
+    border: 1px solid #33323D;
+    background-color: white;
+    padding: 17px 28px;
+    margin-top: 24px;
+    margin-left: 113px;
+    cursor: pointer;
+    color: #33323D;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+}
+
+.homepage-profile-text button:hover {
+    background-color: #33323D;
+    color: white
+}
+
+.end-home-page {
+    display: flex;
+    justify-content: space-between;
+}
+
+.end-home-page h2 {
+    font-size: 40px;
+    font-family: 'Ibarra Real Nova', serif;
+    color: #33323D;
+    line-height: 42px;
+}
+
+.end-home-page button {
+    box-sizing: border-box;
+    border: 1px solid #33323D;
+    background-color: white;
+    width: 168px;
+    height: 48px;
+    margin-right: 50px;
+    cursor: pointer;
+    color: #33323D;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+}
+
+.end-home-page a {
+    width: 168px;
+    height: 48px;
+}
+
+.end-home-page button:hover {
+    background-color: #33323D;
+    color: white
+}
