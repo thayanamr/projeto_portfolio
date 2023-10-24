@@ -1,6 +1,17 @@
-![](https://i.imgur.com/xG74tOh.png)
+<p align="center">
+    <img src="./src/assets/readme-header.png">
+</p>
 
-# Desafio | Front-end - Módulo 2
+<h1 align="center">Desafio | Front-end - Módulo 2C</h1>
+
+<p align="center">
+<img src="https://img.shields.io/badge/react-framework-blue?logo=react"/>
+<img src="https://img.shields.io/badge/vercel-deploy-blue?logo=vercel"/>
+<img src="https://img.shields.io/github/last-commit/thayanamr/projeto_portfolio">
+<img src="https://img.shields.io/badge/status-conclu%C3%ADdo-deploy"/>
+<img src="https://img.shields.io/badge/created_by-Thayana_Machado-%23c999af" >
+
+</p>
 
 O objetivo deste exercício proposto pela Cubos Academy é replicar o website encontrado no figma [`Desafio front academy 1.fig`](https://www.figma.com/file/79R31SMg3mwnd9AWRa3nIF/Desafio-front-academy-md02?node-id=0%3A1&t=LPHOqT9G1QSvmHjY-1).
 
