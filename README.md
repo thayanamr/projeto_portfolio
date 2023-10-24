@@ -1,8 +1,8 @@
 <p align="center">
-    <img src="./src/assets/readme-header.png">
+    <img src="./assets/readme-header.png">
 </p>
 
-<h1 align="center">Desafio | Front-end - Módulo 2C</h1>
+<h1 align="center">Desafio | Front-end - Módulo 2</h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/react-framework-blue?logo=react"/>
