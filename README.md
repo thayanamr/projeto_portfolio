@@ -6,7 +6,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/react-framework-blue?logo=react"/>
-<img src="https://img.shields.io/badge/vercel-deploy-blue?logo=vercel"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/linguagem-html?logo=html5&label=html5&color=blue">
 <img src="https://img.shields.io/github/last-commit/thayanamr/projeto_portfolio">
 <img src="https://img.shields.io/badge/status-conclu%C3%ADdo-deploy"/>
 <img src="https://img.shields.io/badge/created_by-Thayana_Machado-%23c999af" >
