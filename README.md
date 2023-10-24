@@ -16,17 +16,17 @@ O objetivo deste exercício proposto pela Cubos Academy é replicar o website en
 
 ## Como executar o site
 
-→ Executar `git clone` do projeto no terminal para clonar o repositório.
-→ Após isso acessar a pasta, ir em pages e abrir a home no seu navegador.
+→ Executar `git clone` do projeto no terminal para clonar o repositório.<br>
+→ Após isso acessar a pasta, ir em pages e abrir a home no seu navegador.<br>
 
 ## Páginas do Projeto
 
 → [Home](#Home)
-→ [Portfolio](#Portfolio)
-→ [Portfolio - 01 - Manage](#Portfolio---01---Manage)
-→ [Portfolio - 02 - Bookmark](#Portfolio---02---Bookmark)
-→ [Portfolio - 03 - Insure](#Portfolio---03---Insure)
-→ [Portfolio - 04 - Fylo](#Portfolio---04---Fylo)
+→ [Portfolio](#Portfolio)<br>
+→ [Portfolio - 01 - Manage](#Portfolio---01---Manage)<br>
+→ [Portfolio - 02 - Bookmark](#Portfolio---02---Bookmark)<br>
+→ [Portfolio - 03 - Insure](#Portfolio---03---Insure)<br>
+→ [Portfolio - 04 - Fylo](#Portfolio---04---Fylo)<br>
 
 ### Home
 
