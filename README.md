@@ -21,7 +21,7 @@ O objetivo deste exercício proposto pela Cubos Academy é replicar o website en
 
 ## Páginas do Projeto
 
-→ [Home](#Home)
+→ [Home](#Home)<br>
 → [Portfolio](#Portfolio)<br>
 → [Portfolio - 01 - Manage](#Portfolio---01---Manage)<br>
 → [Portfolio - 02 - Bookmark](#Portfolio---02---Bookmark)<br>
