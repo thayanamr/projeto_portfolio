@@ -5,7 +5,6 @@
 <h1 align="center">Desafio | Front-end - Módulo 2</h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/react-framework-blue?logo=react"/>
 <img alt="Static Badge" src="https://img.shields.io/badge/linguagem-html?logo=html5&label=html5&color=blue">
 <img src="https://img.shields.io/github/last-commit/thayanamr/projeto_portfolio">
 <img src="https://img.shields.io/badge/status-conclu%C3%ADdo-deploy"/>
